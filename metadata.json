@@ -1,0 +1,6 @@
+{
+  "name": "LogicXAI Verifier",
+  "description": "Propositional and predicate logic-based SAT rule verification, fault injection, and minimal abductive explanation workbench for explainable decision-tree AI systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
